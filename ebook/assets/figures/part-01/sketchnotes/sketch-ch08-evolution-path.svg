@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 180" role="img">
+  <title>Tiến hóa monolith → micro</title>
+  <desc>Ba buoc tuyen tinh</desc>
+  <rect width="520" height="180" fill="#fffdf5"/>
+  <path d="M8 10 L512 6 L518 170 L10 174 Z" fill="#ecfdf5" stroke="#059669" stroke-width="2.2" stroke-linejoin="round"/>
+  <text x="260" y="32" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#047857">E-commerce: modular monolith → tách rủi ro → mở rộng theo nhu cầu</text>
+  <rect x="40" y="70" width="120" height="48" rx="6" fill="#a7f3d0" stroke="#059669" stroke-width="2"/>
+  <text x="100" y="98" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#065f46">Giai đoạn 1</text>
+  <text x="100" y="110" text-anchor="middle" font-family="Georgia, serif" font-size="8" fill="#047857">Monolith module</text>
+  <rect x="200" y="70" width="120" height="48" rx="6" fill="#6ee7b7" stroke="#047857" stroke-width="2"/>
+  <text x="260" y="98" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#065f46">Giai đoạn 2</text>
+  <text x="260" y="110" text-anchor="middle" font-family="Georgia, serif" font-size="8" fill="#047857">Tách Pay / compliance</text>
+  <rect x="360" y="70" width="120" height="48" rx="6" fill="#34d399" stroke="#065f46" stroke-width="2"/>
+  <text x="420" y="98" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#064e3b">Giai đoạn 3</text>
+  <text x="420" y="110" text-anchor="middle" font-family="Georgia, serif" font-size="8" fill="#065f46">Mở rộng dần</text>
+  <path d="M160 94h36M320 94h36" fill="none" stroke="#334155" stroke-width="2"/>
+  <polygon points="192,88 202,94 192,100" fill="#334155"/>
+  <polygon points="352,88 362,94 352,100" fill="#334155"/>
+  <text x="260" y="154" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#64748b">Sketchnote gốc (CC BY-SA 4.0)</text>
+</svg>

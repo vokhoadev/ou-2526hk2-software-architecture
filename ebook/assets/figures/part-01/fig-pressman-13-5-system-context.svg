@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" font-family="Georgia, serif" font-size="11">
+  <title>System in context</title>
+  <rect width="480" height="300" fill="#faf9f7"/>
+  <text x="240" y="22" text-anchor="middle" font-weight="bold">System in context (conceptual)</text>
+  <rect x="160" y="110" width="160" height="80" rx="8" fill="#e8eaf6" stroke="#3949ab" stroke-width="2"/>
+  <text x="240" y="148" text-anchor="middle" font-weight="bold">System under</text>
+  <text x="240" y="166" text-anchor="middle" font-weight="bold">development</text>
+  <rect x="32" y="40" width="100" height="44" rx="6" fill="#fff" stroke="#333"/><text x="82" y="66" text-anchor="middle">User / actor</text>
+  <rect x="348" y="40" width="100" height="44" rx="6" fill="#fff" stroke="#333"/><text x="398" y="66" text-anchor="middle">External</text>
+  <text x="398" y="78" text-anchor="middle" font-size="9">system</text>
+  <rect x="32" y="220" width="100" height="44" rx="6" fill="#fff" stroke="#333"/><text x="82" y="246" text-anchor="middle">Partner</text>
+  <rect x="348" y="220" width="100" height="44" rx="6" fill="#fff" stroke="#333"/><text x="398" y="246" text-anchor="middle">Infra / cloud</text>
+  <line x1="132" y1="62" x2="200" y2="120" stroke="#666"/>
+  <line x1="348" y1="62" x2="280" y2="120" stroke="#666"/>
+  <line x1="132" y1="242" x2="200" y2="180" stroke="#666"/>
+  <line x1="348" y1="242" x2="280" y2="180" stroke="#666"/>
+  <text x="240" y="288" text-anchor="middle" font-size="9" fill="#666">Aligned with Pressman &amp; Maxim (2015), Fig. 13.5, p. 268. CC BY-SA 4.0.</text>
+</svg>

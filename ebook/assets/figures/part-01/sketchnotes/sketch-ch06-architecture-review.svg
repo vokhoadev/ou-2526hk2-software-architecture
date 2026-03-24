@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" role="img">
+  <title>Architecture review</title>
+  <desc>Mui thu tu smell den thuc thi</desc>
+  <rect width="500" height="200" fill="#fffdf5"/>
+  <path d="M8 12 L492 8 L498 188 L10 192 Z" fill="#fdf2f8" stroke="#be185d" stroke-width="2.2" stroke-linejoin="round"/>
+  <text x="250" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#9d174d">Review: từ “mùi” kiến trúc tới kế hoạch migration</text>
+  <rect x="40" y="76" width="88" height="44" rx="6" fill="#fce7f3" stroke="#be185d" stroke-width="2"/>
+  <text x="84" y="104" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#831843">Smell</text>
+  <rect x="160" y="74" width="100" height="48" rx="6" fill="#fbcfe8" stroke="#db2777" stroke-width="2"/>
+  <text x="210" y="102" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#9d174d">Review</text>
+  <rect x="292" y="76" width="100" height="44" rx="6" fill="#f9a8d4" stroke="#be185d" stroke-width="2"/>
+  <text x="342" y="102" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#831843">Kế hoạch</text>
+  <rect x="412" y="78" width="72" height="40" rx="6" fill="#fda4af" stroke="#e11d48" stroke-width="2"/>
+  <text x="448" y="102" text-anchor="middle" font-family="Georgia, serif" font-size="8" fill="#9f1239">Thực thi</text>
+  <path d="M128 98h28M260 98h28M392 98h16" fill="none" stroke="#334155" stroke-width="2"/>
+  <polygon points="152,92 162,98 152,104" fill="#334155"/>
+  <polygon points="284,92 294,98 284,104" fill="#334155"/>
+  <polygon points="404,92 414,98 404,104" fill="#334155"/>
+  <text x="250" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#64748b">Sketchnote gốc (CC BY-SA 4.0)</text>
+</svg>

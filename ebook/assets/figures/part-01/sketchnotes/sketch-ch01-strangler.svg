@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 260" role="img">
+  <title>Strangler: proxy điều hướng dần</title>
+  <desc>Người dùng, proxy, monolith và dịch vụ mới</desc>
+  <rect width="520" height="260" fill="#fffdf5"/>
+  <path d="M16 22 Q20 18 26 22 L504 18 Q510 22 508 28 L514 238 Q510 244 504 242 L22 246 Q16 242 18 236 Z" fill="#f0fdf4" stroke="#166534" stroke-width="2.6" stroke-linejoin="round"/>
+  <text x="260" y="44" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#14532d">Strangler: thay dần, không cắt một nhát</text>
+  <circle cx="80" cy="130" r="28" fill="#dcfce7" stroke="#166534" stroke-width="2.2"/>
+  <text x="80" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#14532d">Người dùng</text>
+  <text x="80" y="142" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#14532d">traffic</text>
+  <rect x="150" y="96" width="88" height="68" rx="8" fill="#fef9c3" stroke="#a16207" stroke-width="2.4" transform="rotate(-1.5 194 130)"/>
+  <text x="194" y="124" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#713f12">Proxy</text>
+  <text x="194" y="142" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#713f12">router</text>
+  <rect x="280" y="88" width="100" height="72" rx="6" fill="#e2e8f0" stroke="#475569" stroke-width="2.2"/>
+  <text x="330" y="118" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#334155">Monolith</text>
+  <text x="330" y="136" text-anchor="middle" font-family="Georgia, serif" font-size="8" fill="#64748b">còn lại</text>
+  <rect x="400" y="92" width="96" height="68" rx="6" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2.2"/>
+  <text x="448" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#1e3a8a">Dịch vụ mới</text>
+  <path d="M108 130h38M238 130h38M380 130h16" fill="none" stroke="#334155" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="142,124 152,130 142,136" fill="#334155"/>
+  <polygon points="272,124 282,130 272,136" fill="#334155"/>
+  <path d="M330 160v28M330 188 L448 188 L448 160" fill="none" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <text x="260" y="218" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#475569">URL / feature flag: chuyển dần từng phần</text>
+  <text x="260" y="248" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#64748b">Sketchnote gốc (CC BY-SA 4.0)</text>
+</svg>

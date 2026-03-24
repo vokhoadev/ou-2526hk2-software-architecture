@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 320" role="img">
+  <title>Sketchnote: cộng tác làm rõ kiến trúc</title>
+  <desc>Hai nhân vật phác tay, bong bóng thoại và khối System nối ADR</desc>
+  <rect width="560" height="320" fill="#fffdf5"/>
+  <path d="M18 28 Q22 24 28 28 L532 22 Q538 26 536 32 L542 292 Q538 298 532 296 L26 302 Q20 298 22 292 Z" fill="#fffbeb" stroke="#334155" stroke-width="2.8" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="280" y="52" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="15" fill="#0f172a" transform="rotate(-0.8 280 52)">Kiến trúc = thảo luận + quyết định</text>
+  <path d="M380 68 Q386 64 392 70 L528 76 Q534 82 530 88 L522 168 Q518 174 512 172 L378 166 Q372 160 376 154 Z" fill="#fef08a" stroke="#854d0e" stroke-width="2.2" stroke-linejoin="round" opacity="0.95"/>
+  <text x="448" y="108" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#422006" transform="rotate(1.2 448 108)">Biểu diễn</text>
+  <text x="448" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#422006">trước khi code!</text>
+  <circle cx="120" cy="160" r="22" fill="none" stroke="#334155" stroke-width="2.5"/>
+  <path d="M120 182v52M95 210h50M120 234l-28 48M120 234l28 48" fill="none" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="260" cy="168" r="22" fill="none" stroke="#334155" stroke-width="2.5"/>
+  <path d="M260 190v48M235 216h50M260 238l-26 44M260 238l26 44" fill="none" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M165 95 Q155 88 168 82 L248 78 Q262 84 258 98 L252 118 Q248 128 238 124 L175 130 Q160 125 165 110 Z" fill="#e0f2fe" stroke="#0369a1" stroke-width="2.2" stroke-linejoin="round"/>
+  <text x="210" y="108" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#0c4a6e" transform="rotate(-1.5 210 108)">Ranh giới?</text>
+  <path d="M200 118 L195 132 L208 125 Z" fill="#0369a1"/>
+  <rect x="72" y="210" width="96" height="56" rx="6" fill="#fce7f3" stroke="#9d174d" stroke-width="2.5" transform="rotate(-2 120 238)"/>
+  <text x="120" y="238" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#831843">System</text>
+  <text x="120" y="254" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#831843">C1 / ADR</text>
+  <path d="M148 200 Q180 185 210 195" fill="none" stroke="#334155" stroke-width="2.2" stroke-linecap="round"/>
+  <polygon points="208,188 220,198 210,202" fill="#334155"/>
+  <path d="M232 200 Q200 215 168 228" fill="none" stroke="#334155" stroke-width="2" stroke-linecap="round" stroke-dasharray="6 5"/>
+  <path d="M420 240l6 14 15-4-8 12 8 12-15-4-6 14-6-14-15 4 8-12-8-12 15 4z" fill="#fde047" stroke="#ca8a04" stroke-width="1.5" transform="rotate(12 420 240)"/>
+  <text x="280" y="308" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#64748b">Sketchnote gốc — CC BY-SA 4.0</text>
+</svg>

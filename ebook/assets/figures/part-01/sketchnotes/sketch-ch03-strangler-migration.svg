@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 200" role="img">
+  <title>Migration có rollback</title>
+  <desc>Monolith, proxy, dịch vụ, nhánh rollback</desc>
+  <rect width="520" height="200" fill="#fffdf5"/>
+  <path d="M10 16 L510 12 L516 184 L14 188 Z" fill="#f8fafc" stroke="#475569" stroke-width="2.2" stroke-linejoin="round"/>
+  <text x="260" y="38" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#0f172a">Chuyển đổi: migration, rollback, strangler</text>
+  <rect x="40" y="70" width="100" height="64" rx="6" fill="#e2e8f0" stroke="#64748b" stroke-width="2"/>
+  <text x="90" y="106" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#334155">Monolith</text>
+  <rect x="170" y="74" width="88" height="56" rx="6" fill="#fef08a" stroke="#a16207" stroke-width="2"/>
+  <text x="214" y="106" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#713f12">Proxy</text>
+  <rect x="290" y="70" width="100" height="64" rx="6" fill="#bfdbfe" stroke="#2563eb" stroke-width="2"/>
+  <text x="340" y="106" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#1e40af">Dịch vụ mới</text>
+  <path d="M140 102h26M258 102h28" fill="none" stroke="#334155" stroke-width="2"/>
+  <polygon points="162,96 172,102 162,108" fill="#334155"/>
+  <polygon points="282,96 292,102 282,108" fill="#334155"/>
+  <path d="M340 70 Q360 40 400 50 Q420 90 380 120" fill="none" stroke="#dc2626" stroke-width="1.8" stroke-dasharray="5 4"/>
+  <text x="400" y="48" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#b91c1c">rollback?</text>
+  <text x="260" y="168" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#64748b">Sketchnote gốc (CC BY-SA 4.0)</text>
+</svg>

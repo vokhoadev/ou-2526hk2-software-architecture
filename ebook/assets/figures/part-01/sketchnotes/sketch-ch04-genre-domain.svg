@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 300" role="img">
+  <title>Sketchnote: genre và miền nghiệp vụ</title>
+  <desc>Xe tải, thùng hàng và nhãn tuân thủ phác tay</desc>
+  <rect width="560" height="300" fill="#fffdf5"/>
+  <path d="M18 22 Q22 18 28 22 L542 16 Q548 20 546 26 L552 278 Q548 284 542 282 L26 288 Q20 284 22 278 Z" fill="#fff7ed" stroke="#c2410c" stroke-width="2.8" stroke-linejoin="round"/>
+  <text x="280" y="48" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#9a3412" transform="rotate(0.4 280 48)">Genre đổi → ràng buộc đổi</text>
+  <rect x="80" y="120" width="56" height="56" rx="4" fill="#fed7aa" stroke="#ea580c" stroke-width="2.5" transform="rotate(-4 108 148)"/>
+  <rect x="100" y="100" width="56" height="56" rx="4" fill="#fdba74" stroke="#c2410c" stroke-width="2.5" transform="rotate(2 128 128)"/>
+  <text x="128" y="138" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#7c2d12">SKU</text>
+  <rect x="240" y="150" width="120" height="50" rx="6" fill="#e2e8f0" stroke="#334155" stroke-width="2.5"/>
+  <circle cx="270" cy="210" r="18" fill="#f8fafc" stroke="#334155" stroke-width="2.5"/>
+  <circle cx="330" cy="210" r="18" fill="#f8fafc" stroke="#334155" stroke-width="2.5"/>
+  <path d="M360 150h40l20 40h-60z" fill="#cbd5e1" stroke="#334155" stroke-width="2.5" stroke-linejoin="round"/>
+  <text x="310" y="182" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#1e293b">TMS</text>
+  <path d="M400 88 Q392 82 404 76 L520 70 Q532 76 528 90 L522 124 Q518 134 506 130 L408 136 Q396 132 400 118 Z" fill="#fef3c7" stroke="#b45309" stroke-width="2.2"/>
+  <text x="464" y="104" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#78350f">PCI / GDPR?</text>
+  <path d="M180 160 Q220 140 240 155" fill="none" stroke="#334155" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="232,148 246,158 236,162" fill="#334155"/>
+  <text x="280" y="268" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#475569">Retail / logistics: nhiều hệ nối nhau</text>
+  <text x="280" y="292" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#64748b">Sketchnote gốc — CC BY-SA 4.0</text>
+</svg>

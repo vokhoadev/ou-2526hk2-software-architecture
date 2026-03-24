@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 120" font-family="Georgia, serif" font-size="12">
+  <title>Pipe-and-filter architecture</title>
+  <rect width="520" height="120" fill="#faf9f7"/>
+  <text x="260" y="20" text-anchor="middle" font-weight="bold">Pipe-and-filter</text>
+  <rect x="24" y="48" width="72" height="44" rx="4" fill="#e3f2fd" stroke="#1565c0"/>
+  <text x="60" y="74" text-anchor="middle">In</text>
+  <line x1="96" y1="70" x2="128" y2="70" stroke="#333" stroke-width="2"/>
+  <rect x="128" y="48" width="88" height="44" rx="4" fill="#fff" stroke="#333"/>
+  <text x="172" y="74" text-anchor="middle">Filter 1</text>
+  <line x1="216" y1="70" x2="248" y2="70" stroke="#333" stroke-width="2"/>
+  <rect x="248" y="48" width="88" height="44" rx="4" fill="#fff" stroke="#333"/>
+  <text x="292" y="74" text-anchor="middle">Filter 2</text>
+  <line x1="336" y1="70" x2="368" y2="70" stroke="#333" stroke-width="2"/>
+  <rect x="368" y="48" width="88" height="44" rx="4" fill="#fff" stroke="#333"/>
+  <text x="412" y="74" text-anchor="middle">Filter 3</text>
+  <line x1="456" y1="70" x2="424" y2="70" stroke="#333" stroke-width="2"/>
+  <rect x="424" y="48" width="72" height="44" rx="4" fill="#e8f5e9" stroke="#2e7d32"/>
+  <text x="460" y="74" text-anchor="middle">Out</text>
+  <text x="260" y="108" text-anchor="middle" font-size="9" fill="#666">Aligned with Pressman &amp; Maxim (2015), Fig. 13.2. CC BY-SA 4.0.</text>
+</svg>

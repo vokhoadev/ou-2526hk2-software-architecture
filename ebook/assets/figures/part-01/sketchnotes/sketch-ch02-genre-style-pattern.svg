@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 220" role="img">
+  <title>Genre, style, pattern</title>
+  <desc>Ba khối nối tiếp nhau</desc>
+  <rect width="480" height="220" fill="#fffdf5"/>
+  <path d="M12 18 Q16 14 22 18 L468 14 Q474 18 472 24 L478 198 Q474 204 468 202 L18 206 Q12 202 14 196 Z" fill="#fdf4ff" stroke="#86198f" stroke-width="2.4" stroke-linejoin="round"/>
+  <text x="240" y="40" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#581c87">Chuyển giao: genre → style → pattern</text>
+  <rect x="36" y="72" width="120" height="72" rx="8" fill="#fce7f3" stroke="#9d174d" stroke-width="2.2" transform="rotate(-2 96 108)"/>
+  <text x="96" y="104" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#831843">Genre</text>
+  <text x="96" y="122" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#831843">miền, rủi ro</text>
+  <rect x="180" y="68" width="120" height="72" rx="8" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2.2"/>
+  <text x="240" y="100" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1e3a8a">Style</text>
+  <text x="240" y="118" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#1e3a8a">tổ chức lớn</text>
+  <rect x="324" y="72" width="120" height="72" rx="8" fill="#dcfce7" stroke="#166534" stroke-width="2.2" transform="rotate(2 384 108)"/>
+  <text x="384" y="104" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#14532d">Pattern</text>
+  <text x="384" y="122" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#14532d">tên gọi giải pháp</text>
+  <path d="M156 108h20M300 108h20" fill="none" stroke="#334155" stroke-width="2"/>
+  <polygon points="172,102 182,108 172,114" fill="#334155"/>
+  <polygon points="316,102 326,108 316,114" fill="#334155"/>
+  <text x="240" y="188" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#64748b">Sketchnote gốc (CC BY-SA 4.0)</text>
+</svg>

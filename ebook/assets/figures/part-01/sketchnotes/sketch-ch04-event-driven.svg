@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" role="img">
+  <title>Event-driven</title>
+  <desc>Producer, bus, consumer</desc>
+  <rect width="500" height="200" fill="#fffdf5"/>
+  <path d="M8 12 L492 8 L498 190 L10 194 Z" fill="#faf5ff" stroke="#7c3aed" stroke-width="2.2" stroke-linejoin="round"/>
+  <text x="250" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#5b21b6">EDA: giảm temporal coupling — cần semantics + idempotency</text>
+  <rect x="40" y="78" width="100" height="56" rx="6" fill="#e9d5ff" stroke="#7c3aed" stroke-width="2"/>
+  <text x="90" y="112" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#5b21b6">Producer</text>
+  <rect x="200" y="80" width="100" height="52" rx="6" fill="#fde68a" stroke="#b45309" stroke-width="2"/>
+  <text x="250" y="112" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#92400e">Event bus</text>
+  <rect x="360" y="72" width="88" height="48" rx="6" fill="#e9d5ff" stroke="#7c3aed" stroke-width="2"/>
+  <text x="404" y="98" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#5b21b6">Consumer</text>
+  <rect x="360" y="128" width="88" height="44" rx="6" fill="#e9d5ff" stroke="#7c3aed" stroke-width="2"/>
+  <text x="404" y="154" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#5b21b6">Consumer</text>
+  <path d="M140 106h56M300 106h56" fill="none" stroke="#334155" stroke-width="2"/>
+  <polygon points="190,100 200,106 190,112" fill="#334155"/>
+  <polygon points="350,100 360,106 350,112" fill="#334155"/>
+  <path d="M250 132 L404 96M250 132 L404 150" fill="none" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="250" y="184" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#64748b">Sketchnote gốc (CC BY-SA 4.0)</text>
+</svg>

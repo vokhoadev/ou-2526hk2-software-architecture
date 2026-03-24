@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 300" role="img">
+  <title>Sketchnote: board giao tiếp stakeholder</title>
+  <desc>Ba cột To do, Doing, Done phác tay và vai trò PM, Dev, Ops</desc>
+  <rect width="560" height="300" fill="#fffdf5"/>
+  <path d="M16 24 Q20 20 26 24 L544 18 Q550 22 548 28 L554 276 Q550 282 544 280 L22 286 Q16 282 18 276 Z" fill="#f0fdf4" stroke="#166534" stroke-width="2.8" stroke-linejoin="round"/>
+  <text x="280" y="48" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#14532d" transform="rotate(0.6 280 48)">Cùng nhìn một backlog</text>
+  <g stroke="#334155" stroke-width="2.3" stroke-linecap="round" fill="none">
+    <path d="M70 70v200M210 70v200M350 70v200M490 70v200"/>
+  </g>
+  <text x="140" y="64" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1e293b" transform="rotate(-1 140 64)">To do</text>
+  <text x="280" y="62" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1e293b">Doing</text>
+  <text x="420" y="64" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1e293b" transform="rotate(1 420 64)">Done</text>
+  <rect x="88" y="92" width="96" height="44" rx="4" fill="#fef9c3" stroke="#a16207" stroke-width="2" transform="rotate(-2 136 114)"/>
+  <text x="136" y="118" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#713f12">NFR?</text>
+  <rect x="232" y="100" width="96" height="48" rx="4" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2" transform="rotate(1.5 280 124)"/>
+  <text x="280" y="124" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#1e3a8a">ADR-003</text>
+  <rect x="372" y="108" width="96" height="40" rx="4" fill="#fce7f3" stroke="#be185d" stroke-width="2" transform="rotate(-1 420 128)"/>
+  <text x="420" y="132" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#831843">C2 OK</text>
+  <circle cx="520" cy="220" r="14" fill="none" stroke="#334155" stroke-width="2"/>
+  <path d="M520 234v36M505 252h30" fill="none" stroke="#334155" stroke-width="2" stroke-linecap="round"/>
+  <text x="520" y="288" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#64748b">PM · Dev · Ops</text>
+  <text x="280" y="292" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#64748b">Sketchnote gốc — CC BY-SA 4.0</text>
+</svg>

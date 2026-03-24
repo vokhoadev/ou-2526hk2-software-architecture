@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 300" role="img">
+  <title>Sketchnote: workshop và vòng lặp kiến trúc</title>
+  <desc>Bảng trắng phác tay, mũi tên vòng lặp ADR</desc>
+  <rect width="560" height="300" fill="#fffdf5"/>
+  <path d="M14 26 Q18 22 24 26 L536 20 Q542 24 540 30 L546 274 Q542 280 536 278 L24 284 Q18 280 20 274 Z" fill="#ecfdf5" stroke="#047857" stroke-width="2.8" stroke-linejoin="round"/>
+  <text x="280" y="46" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#065f46" transform="rotate(0.5 280 46)">Không “xong” sau 1 buổi</text>
+  <rect x="120" y="70" width="280" height="160" rx="6" fill="#ffffff" stroke="#334155" stroke-width="3" stroke-linejoin="round" transform="rotate(-1 260 150)"/>
+  <path d="M140 110 Q180 95 220 105 T300 100" fill="none" stroke="#6366f1" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M150 140 Q200 130 250 145 T320 138" fill="none" stroke="#ec4899" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="200" cy="180" r="24" fill="none" stroke="#f59e0b" stroke-width="2.5"/>
+  <text x="200" y="186" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#b45309">C1?</text>
+  <rect x="248" y="168" width="72" height="36" rx="4" fill="#fef08a" stroke="#854d0e" stroke-width="2"/>
+  <text x="284" y="190" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#713f12">trade-off</text>
+  <circle cx="460" cy="200" r="20" fill="none" stroke="#334155" stroke-width="2.5"/>
+  <path d="M460 220v40M445 238h30" fill="none" stroke="#334155" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M80 240 Q40 200 80 160 Q120 120 200 130" fill="none" stroke="#334155" stroke-width="2.2" stroke-dasharray="8 6" stroke-linecap="round"/>
+  <text x="56" y="200" font-family="Georgia, serif" font-size="10" fill="#475569" transform="rotate(-70 56 200)">iterate</text>
+  <path d="M400 250 Q280 280 160 250 Q120 230 130 200" fill="none" stroke="#059669" stroke-width="2.5" stroke-linecap="round"/>
+  <polygon points="135,205 128,188 122,202" fill="#059669"/>
+  <text x="260" y="278" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#475569">Review → ADR → sprint tiếp theo</text>
+  <text x="280" y="296" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#64748b">Sketchnote gốc — CC BY-SA 4.0</text>
+</svg>

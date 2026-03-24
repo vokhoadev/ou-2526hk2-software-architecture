@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 280" role="img">
+  <title>Ba mặt kiến trúc: cấu trúc, quyết định, NFR</title>
+  <desc>Sketchnote ba khối nối với nhau</desc>
+  <rect width="520" height="280" fill="#fffdf5"/>
+  <path d="M14 20 Q18 16 24 20 L506 14 Q512 18 510 24 L516 256 Q512 262 506 260 L20 266 Q14 262 16 256 Z" fill="#fefce8" stroke="#854d0e" stroke-width="2.6" stroke-linejoin="round"/>
+  <text x="260" y="42" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#422006">Kiến trúc = nhiều mặt cùng lúc</text>
+  <rect x="40" y="70" width="130" height="88" rx="8" fill="#dbeafe" stroke="#1e40af" stroke-width="2.4" transform="rotate(-2 105 114)"/>
+  <text x="105" y="108" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#1e3a8a">Cấu trúc</text>
+  <text x="105" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#1e3a8a">hộp + dây nối</text>
+  <rect x="195" y="62" width="130" height="88" rx="8" fill="#fce7f3" stroke="#9d174d" stroke-width="2.4"/>
+  <text x="260" y="100" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#831843">Quyết định</text>
+  <text x="260" y="120" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#831843">nguyên tắc</text>
+  <rect x="350" y="70" width="130" height="88" rx="8" fill="#dcfce7" stroke="#166534" stroke-width="2.4" transform="rotate(2 415 114)"/>
+  <text x="415" y="108" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#14532d">NFR</text>
+  <text x="415" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#14532d">-ilities</text>
+  <path d="M170 114h20M300 114h45" fill="none" stroke="#334155" stroke-width="2" stroke-linecap="round"/>
+  <polygon points="188,108 198,114 188,120" fill="#334155"/>
+  <polygon points="338,108 348,114 338,120" fill="#334155"/>
+  <text x="260" y="220" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#475569">Hai hệ vẽ giống trên giấy nhưng khác luật chơi</text>
+  <text x="260" y="268" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#64748b">Sketchnote gốc — CC BY-SA 4.0</text>
+</svg>

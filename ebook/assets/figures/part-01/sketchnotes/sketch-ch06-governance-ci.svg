@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 200" role="img">
+  <title>Governance và CI</title>
+  <desc>Ma, CI, pass fail ADR</desc>
+  <rect width="500" height="200" fill="#fffdf5"/>
+  <path d="M8 12 L492 8 L498 188 L10 192 Z" fill="#f1f5f9" stroke="#334155" stroke-width="2.2" stroke-linejoin="round"/>
+  <text x="250" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#0f172a">Fitness function + governance: mã không “trôi” khỏi kiến trúc</text>
+  <rect x="48" y="64" width="120" height="52" rx="6" fill="#e2e8f0" stroke="#475569" stroke-width="2"/>
+  <text x="108" y="96" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#334155">Mã / config</text>
+  <rect x="210" y="66" width="100" height="48" rx="6" fill="#bfdbfe" stroke="#2563eb" stroke-width="2"/>
+  <text x="260" y="94" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#1e40af">CI check</text>
+  <path d="M168 90h38" fill="none" stroke="#334155" stroke-width="2"/>
+  <polygon points="200,84 210,90 200,96" fill="#334155"/>
+  <rect x="350" y="58" width="110" height="40" rx="6" fill="#bbf7d0" stroke="#15803d" stroke-width="2"/>
+  <text x="405" y="82" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#14532d">pass → merge</text>
+  <rect x="350" y="108" width="110" height="40" rx="6" fill="#fecaca" stroke="#dc2626" stroke-width="2"/>
+  <text x="405" y="132" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#991b1b">fail → ADR</text>
+  <text x="250" y="176" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#64748b">Sketchnote gốc (CC BY-SA 4.0)</text>
+</svg>
